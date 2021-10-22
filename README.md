@@ -1,6 +1,6 @@
 <h3 align="center">I'm junior Software Engineer</h3>
 
-- 🔭 I’m currently working on **Eorganeek**
+- 🔭 I’m currently working on **Inveon**
 
 - 🌱 I’m currently learning **React, React-Native**
 
